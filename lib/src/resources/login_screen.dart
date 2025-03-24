@@ -101,7 +101,7 @@ class _LoginScreenState extends State<LoginScreen>{
                   style: ElevatedButton.styleFrom(
                     backgroundColor: Colors.blue,
                     foregroundColor: Colors.white,
-                    elevation: 5, // Độ nổi
+                    elevation: 5, // Độ bóng
                     shape: RoundedRectangleBorder(
                       borderRadius: BorderRadius.circular(8), // Bo góc
                     ),
